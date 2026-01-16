@@ -33,6 +33,6 @@ The project is designed to demonstrate strong Object-Oriented Programming (OOP) 
 ---
 
 ## 🔮 Future Enhancements
-- Convert the application into a Spring Boot REST API
+- Upgrade this application to a Spring Boot REST API
 - Integrate database support (MySQL) for persistent transaction storage
 - Add JUnit test cases
